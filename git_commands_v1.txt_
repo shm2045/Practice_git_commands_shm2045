@@ -1,0 +1,6 @@
+1. git clone <origin-repository-path>
+2. git status
+3. git add <file-name>
+4. git commit -m "Commit message"
+5. git push
+6. git reset HEAD <file-name>
