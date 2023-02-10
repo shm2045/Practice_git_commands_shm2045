@@ -9,3 +9,4 @@
 9. git branch <new-branch-name>
 10. git checkout <branch-name>
 11. git branch -d <branch-name>
+12. git push --set-upstream origin <branch-name>
